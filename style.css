@@ -1,0 +1,25 @@
+.navbar-brand {
+    color: white;
+    background-color: rgb(248, 7, 7);
+    font-style: oblique;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container-fluid {
+    background-color: rgb(168, 15, 15);
+}
+
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+body{
+    margin-left: auto;
+}
+body{
+    background-size: 100%;
+}
